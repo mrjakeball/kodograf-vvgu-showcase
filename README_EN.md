@@ -110,4 +110,4 @@ A full editor makes the learning environment feel closer to a real development t
 
 <p align="center">
   <a href="https://github.com/mrjakeball"><strong>GitHub profile ↑</strong></a>
-</p></p>
+</p>
