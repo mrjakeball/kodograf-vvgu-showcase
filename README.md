@@ -21,9 +21,11 @@ Next.js · Monaco Editor · Pyodide · Web Worker
 
 Самостоятельный учебный концепт. ВВГУ упоминается в названии проекта, официального статуса у сервиса нет.
 
-## Исходные изображения
+## Python на двух экранах
 
-[Редактор и результат запуска](assets/screen-python-run-desktop.jpg) · [Урок на телефоне](assets/screen-lesson-mobile.jpg) · [Первый вход](assets/screen-welcome-mobile.jpg)
+**[Условие на телефоне](assets/screen-lesson-mobile.jpg)** · В уроке Hello World можно прочитать задание и пример перед переходом к решению.
+
+**[Редактор на компьютере](assets/screen-python-run-desktop.jpg)** · Условие остаётся справа от кода. Под редактором видно место для вывода Python, поэтому результат можно сверить с примером в той же вкладке.
 
 <details>
 <summary>Развернуть галерею</summary>

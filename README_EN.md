@@ -21,9 +21,11 @@ Next.js · Monaco Editor · Pyodide · Web Worker
 
 An independent educational concept using the VVGU name, with no official university affiliation.
 
-## Original images
+## A Python lesson across two screens
 
-[Editor and execution output](assets/screen-python-run-desktop.jpg) · [Mobile lesson](assets/screen-lesson-mobile.jpg) · [Welcome screen](assets/screen-welcome-mobile.jpg)
+**[The mobile exercise](assets/screen-lesson-mobile.jpg)** · The Hello World lesson introduces the task and example before the learner starts editing.
+
+**[The desktop workspace](assets/screen-python-run-desktop.jpg)** · The prompt stays to the right of the code. The output area beneath the editor lets the learner compare the result with the example in the same tab.
 
 <details>
 <summary>View the gallery</summary>
